@@ -1,6 +1,7 @@
 from board import *
 from player import *
 from base_player import MyPlayer
+from human import Human
 import random
 from termcolor import colored
 
@@ -140,7 +141,7 @@ class Othello:
 
 
 if __name__ == "__main__":
-    joueur1 = MyPlayer("Joueur 1")
+    joueur1 = Human("Joueur 1")
     joueur2 = MyPlayer("Joueur 2")
     g = Othello(8, joueur1, joueur2)
     score_j1, score_j2 = g.play()
