@@ -26,4 +26,4 @@ Le classement est ensuite calculé en fonction du nombre de points total.
 
 Si vous remarquez un bug sur le jeu ou la ladder, remontez le moi assez vite svp.
 
-Le jeu a été codé par Cléa (cléa#2543 sur discord) allez lui dire merci 🙂.
+Le jeu a été codé par Cléa, merci à elle 🙂.
